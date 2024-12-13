@@ -1,0 +1,3 @@
+google-generativeai
+typing-extensions
+reportlab
